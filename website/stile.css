@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+	padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  background-color: #657383;
+  margin: auto;
+  }
+h1 {
+  font-family: 'Righteous';
+  font-size: 80px;
+  color: snow;
+}
+article {
+  background-color: #F0FFF0;
+}
+.bio {
+  font-family: 'Quicksand';
+  font-size: 70px;
+  }
+.section1 {
+ display: inline-grid;
+ text-align: left;
+ top: auto;
+ padding: 10px;
+ margin-top: 10px;
+ border: 2px solid #DCDCDC;
+ border-radius: 30px;
+}
+.profile {
+    float: left;
+    align: left;
+    background-color: #F0FFF0;
+    margin: 10px;
+    border-radius: 35px;
+    height: 285px;
+}
+.p1 {
+  font-family: 'Montserrat';
+  font-weight: 200;
+  font-size: 24px;
+  display: block;
+  margin: auto;
+  align: left;
+}
+.list-title {
+  font-family: 'Quicksand';
+  font-size: 50px;
+}
+.skills {
+  font-family: 'Montserrat';
+  display: inline-grid;
+  background-color: #DCDCDC;
+  height: 300px;
+  width: 350px;
+  font-size: 30px;
+  border: 2px solid #C8BBBE;
+  border-radius: 30px;
+  margin: inherit;
+}
+ul {
+  list-style-type: none;
+}
+.contatti {
+  background-color: #657383;
+  margin: auto;
+}
+.title {
+  font-family: 'Righteous';
+  font-size: 50px;
+  color: snow;
+}
+.loghi {
+  border-radius: 50px;
+  justify-content: space-around;
+}
